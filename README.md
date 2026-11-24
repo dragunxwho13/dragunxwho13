@@ -131,14 +131,12 @@ An IBM Bob agent crew that ships dependency upgrades (Express, Mongoose, Jest) w
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dragunxwho13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragunxwho13&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dragunxwho13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=2" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragunxwho13&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&v=2" alt="Top languages" />
 
 </div>
 
 ---
-https://github-readme-stats.vercel.app/api?username=dragunxwho13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=2
-https://github-readme-stats.vercel.app/api/top-langs/?username=dragunxwho13&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&v=2
 
 ## 🐍 Contribution snake
 
